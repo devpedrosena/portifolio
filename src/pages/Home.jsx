@@ -2,7 +2,7 @@ import './home.css'
 import { useState } from "react"
 import btnDarkMode from '../assets/Btn Change-theme.png'
 import btnLigthMode from '../assets/Btn Change-ligth.png'
-import Eu from '../assets/pedroSena.png'
+import Eu from '../assets/pedro.png'
 
 function Home() {
 
